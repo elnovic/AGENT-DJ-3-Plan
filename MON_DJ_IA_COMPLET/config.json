@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "date_export": "2024",
+  "agents": [
+    {
+      "nom": "Agent 1",
+      "type": "Intelligence musicale",
+      "statut": "fonctionnel"
+    },
+    {
+      "nom": "Agent 2",
+      "type": "Syst\u00e8me audio",
+      "statut": "fonctionnel"
+    },
+    {
+      "nom": "Agent 3",
+      "type": "Analyse audience",
+      "statut": "fonctionnel"
+    }
+  ]
+}
